@@ -1,0 +1,6 @@
+{
+  "name": "CampusSphere — Student Resource & Academic Hub",
+  "description": "Comprehensive university student portal for lecture notes, past exam papers, revision guides, academic calendar, campus events, and student services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
